@@ -1,8 +1,5 @@
 # HR-Attrition-Analysis
 End-to-end HR attrition analysis using Excel, SQL and Power BI
-# HR Attrition Analysis
-
-End-to-end data analysis project using Excel, SQL and Power BI
 
  What this project does
 
